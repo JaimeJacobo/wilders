@@ -1,0 +1,23 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaimeJacobo/wilders.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaimeJacobo/wilders/issues"
+  },
+  "homepage": "https://github.com/JaimeJacobo/wilders#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
